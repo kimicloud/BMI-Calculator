@@ -11,6 +11,4 @@ Check out the app live: [BMI Calculator Link](https://bmi-calculator-theta-snowy
 - 🔢 Calculate BMI based on height & weight  
 - 📊 Categorizes BMI results (Underweight, Normal, Overweight, Obese)  
 - 🎨 Clean and responsive UI  
-- 🌙 Light & Dark mode  
-- 📝 Health tips based on BMI  
 
